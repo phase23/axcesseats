@@ -1,0 +1,2 @@
+rootProject.name = "AxcessEats"
+include ':app'
